@@ -14,7 +14,6 @@ function sayName(name:string) {
 
 sayName('邱念')
 console.log('lastFinished');
-console.log('b');
 console.log('c');
 
 
