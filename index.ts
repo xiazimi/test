@@ -3,5 +3,3 @@ function multiple(a: number, b: number): number {
 }
 
 const res = multiple(2, 5);
-
-console.log(res);
