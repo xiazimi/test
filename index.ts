@@ -12,8 +12,3 @@ function logName(name:string) {
 }
 
 logName('邱念')
-function sayHello() {
-  console.log("hello");
-}
-
-sayHello()
