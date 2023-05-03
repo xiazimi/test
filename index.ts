@@ -17,3 +17,5 @@ function sayHello() {
 }
 
 sayHello()
+
+console.log('main');
