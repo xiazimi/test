@@ -5,3 +5,8 @@ function sum(a: number, b: number) {
 const resSum = sum(1, 2);
 console.log(resSum);
 
+function sayHello() {
+  console.log("hello");
+}
+
+sayHello()
