@@ -12,3 +12,5 @@ function logName(name:string) {
 }
 
 logName('邱念')
+
+console.log('test04');
