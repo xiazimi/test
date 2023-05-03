@@ -1,8 +1,7 @@
-function sum(a: number, b: number) {
-  return a + b;
+function multiple(a: number, b: number): number {
+  return a * b;
 }
 
-const resSum = sum(1, 2);
-console.log(resSum);
+const res = multiple(2, 5);
 
-console.log('123');
+console.log(res);
