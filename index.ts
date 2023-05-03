@@ -8,12 +8,9 @@ function sum(a:number, b: number): number {
 }
 const sumRes = sum(1, 2);
 
-console.log('qn');
-
-console.log('qn-finished');
-
 function sayName(name:string) {
   console.log(name);
 }
 
 sayName('邱念')
+console.log('lastFinished');
